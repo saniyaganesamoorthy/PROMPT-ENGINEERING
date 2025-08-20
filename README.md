@@ -110,11 +110,11 @@ Prepared for: Educational & Research Purposes
 
 Target Audience: Undergraduate Students, Early Career AI Professionals
 
-Author: Yamuna M
+Author: SANIYA G
 
-Register number: 212223230248
+Register number: 212223240147
 
-Date: 13 August 2025
+Date: 20 August 2025
 ________________________________________
 Prompt: Generate a comprehensive, well-structured report on “Fundamentals of Generative AI and Large Language Models (LLMs)” for undergraduate-level learners, covering concepts, architectures, training, applications, limitations, ethics, and future trends.
 Include diagrams, comparison tables, real-world examples, and APA-style references in an academic yet accessible tone.
